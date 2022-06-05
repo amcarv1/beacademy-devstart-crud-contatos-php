@@ -2,6 +2,7 @@
 <h1 align='center'>
   <img src="https://user-images.githubusercontent.com/84135240/172031803-7f563174-dbef-4959-bee8-8857ffad5254.gif" width=80%>
 </h1>
+
 <br>
 
 <h3> 📝 Sobre </h3>
@@ -44,3 +45,9 @@ http://localhost:8000/
 
 <h3> 😁 Agradecimentos </h3>
 <p> Obrigado por ter lido até aqui e espero que tenha conseguido executar o projeto. ;) </p>
+<h1 align=center>
+<img src='https://img.shields.io/badge/Autor-Erick%20Amorim-191F2B?style=flat-square'/>
+  <a href="https://www.linkedin.com/in/erick-amorim-265667214/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</h1>
